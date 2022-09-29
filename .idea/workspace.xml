@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5e238b-72de-40e5-b0a7-eb875f5e7a7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FS6tCRilWv3eQiF4WHdCCB8yfS" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.arkadasSayilar">
+    <configuration name="arkadasSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day1.arkadasSayilar" />
+      <module name="javahomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="miniProjeAsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day1.miniProjeAsalSayi" />
+      <module name="javahomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day1.mukemmelSayi" />
+      <module name="javahomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sesliHarfler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day1.sesliHarfler" />
+      <module name="javahomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day1.stringsDemo" />
+      <module name="javahomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="javahomeWorks" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="javahomeWorks" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.stringsDemo" />
+      <item itemvalue="Application.miniProjeAsalSayi" />
+      <item itemvalue="Application.sesliHarfler" />
+      <item itemvalue="Application.mukemmelSayi" />
+      <item itemvalue="Application.arkadasSayilar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arkadasSayilar" />
+        <item itemvalue="Application.mukemmelSayi" />
+        <item itemvalue="Application.sesliHarfler" />
+        <item itemvalue="Application.miniProjeAsalSayi" />
+        <item itemvalue="Application.stringsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5e238b-72de-40e5-b0a7-eb875f5e7a7e" name="Default Changelist" comment="" />
+      <created>1664473350764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664473350764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom" timestamp="1664478557931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
+    <state width="1328" height="252" key="GridCell.Tab.0.center" timestamp="1664478557931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
+    <state width="1328" height="252" key="GridCell.Tab.0.left" timestamp="1664478557931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
+    <state width="1328" height="252" key="GridCell.Tab.0.right" timestamp="1664478557931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
+  </component>
+</project>
