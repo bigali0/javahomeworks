@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce5e238b-72de-40e5-b0a7-eb875f5e7a7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/classesWithAttributes/MainProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/classesWithAttributes/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/classesWithAttributes/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/customer/ClassesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/customer/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/methodOverloading/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/methodOverloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/reCapDemo_Classes/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/day2/reCapDemo_Classes/DortIslemMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/arkadasSayilar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/ArkadasSayilar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/arraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/Conditionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/Datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/loopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/miniProjeAsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/MiniProjeAsalSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/mukemmelSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/MukemmelSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/multiDimensionalArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/MultiDimensionalArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/reCapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/RecapDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/recapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/RecapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/sayiBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/SayiBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/sesliHarfler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/SesliHarfler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/StringsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/switchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/SwitchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/day1/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/day1/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +52,16 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.arkadasSayilar">
-    <configuration name="arkadasSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.day1.arkadasSayilar" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ClassesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day2.customer.ClassesMain" />
       <module name="javahomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="PATTERN" value="homeworks.day2.customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniProjeAsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.day1.miniProjeAsalSayi" />
+    <configuration name="DortIslemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day2.reCapDemo_Classes.DortIslemMain" />
       <module name="javahomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="PATTERN" value="homeworks.day2.reCapDemo_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.day1.mukemmelSayi" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day2.methodOverloading.Main" />
       <module name="javahomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="PATTERN" value="homeworks.day2.methodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sesliHarfler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.day1.sesliHarfler" />
+    <configuration name="MainProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day2.classesWithAttributes.MainProduct" />
       <module name="javahomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="PATTERN" value="homeworks.day2.classesWithAttributes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,80 +108,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.day1.stringsDemo" />
+    <configuration name="Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.day2.Methods2" />
       <module name="javahomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.day1.*" />
+          <option name="PATTERN" value="homeworks.day2.customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="javahomeWorks" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="javahomeWorks" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.stringsDemo" />
-      <item itemvalue="Application.miniProjeAsalSayi" />
-      <item itemvalue="Application.sesliHarfler" />
-      <item itemvalue="Application.mukemmelSayi" />
-      <item itemvalue="Application.arkadasSayilar" />
+      <item itemvalue="Application.Methods2" />
+      <item itemvalue="Application.ClassesMain" />
+      <item itemvalue="Application.DortIslemMain" />
+      <item itemvalue="Application.MainProduct" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arkadasSayilar" />
-        <item itemvalue="Application.mukemmelSayi" />
-        <item itemvalue="Application.sesliHarfler" />
-        <item itemvalue="Application.miniProjeAsalSayi" />
-        <item itemvalue="Application.stringsDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainProduct" />
+        <item itemvalue="Application.DortIslemMain" />
+        <item itemvalue="Application.ClassesMain" />
+        <item itemvalue="Application.Methods2" />
       </list>
     </recent_temporary>
   </component>
@@ -169,21 +152,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1328" height="252" key="GridCell.Tab.0.bottom" timestamp="1664478557931">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1193" y="31" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1664989045278">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
     </state>
-    <state width="1328" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
-    <state width="1328" height="252" key="GridCell.Tab.0.center" timestamp="1664478557931">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1193" y="31" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664989045278" />
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom" timestamp="1664990326005">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
     </state>
-    <state width="1328" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
-    <state width="1328" height="252" key="GridCell.Tab.0.left" timestamp="1664478557931">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664990326005" />
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664498271945" />
+    <state width="1328" height="252" key="GridCell.Tab.0.center" timestamp="1664990326005">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
     </state>
-    <state width="1328" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
-    <state width="1328" height="252" key="GridCell.Tab.0.right" timestamp="1664478557931">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1328" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664990326005" />
+    <state width="1328" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664498271945" />
+    <state width="1328" height="252" key="GridCell.Tab.0.left" timestamp="1664990326005">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
     </state>
-    <state width="1328" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664478557931" />
+    <state width="1328" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664990326005" />
+    <state width="1328" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664498271945" />
+    <state width="1328" height="252" key="GridCell.Tab.0.right" timestamp="1664990326005">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664990326005" />
+    <state width="1328" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664498271945" />
+    <state x="-1155" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1664986332656">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state x="-1155" y="223" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1664986332656" />
+    <state x="765" y="304" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1664897917639" />
   </component>
 </project>
